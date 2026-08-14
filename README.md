@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ibrahim 👋
 
-<!--
-**MuhammadIbrahim1882/MuhammadIbrahim1882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm a **Web Developer** from **Gilgit, Pakistan**
+- 🌱 Currently learning **Python, HTML, CSS, JavaScript**
+- 💻 Building projects in Web Development
+- 📫 Reach me: add your email here
 
-Here are some ideas to get you started:
+## Skills
+`Python` `HTML` `CSS` `JavaScript` `Web Development`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Check out my pinned repositories below 👇

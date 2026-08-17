@@ -1,0 +1,27 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * *" # runs daily
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: MuhammadIbrahim1882
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake-artifacts
+          path: dist/
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+      - uses: actions/deploy-pages@v4

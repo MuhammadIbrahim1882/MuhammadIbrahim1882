@@ -44,12 +44,7 @@ Check out my pinned repositories below 👇
 [Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 [GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadIbrahim1882&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIbrahim1882&theme=dark&hide_border=true"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIbrahim1882&theme=dark&hide_border=true&layout=compact"/>
-</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
